@@ -50,7 +50,7 @@ The "Supervised_Learning_Classification_Model.ipynb" is the file used to call th
 
 The "Top_5_Collections_Analysis.ipynb" file contains the code for the trading algorithm. The goal of this algorithm is to advise the Happy Monkey user whether or not to buy/sell one of the top moving collections. In this program, historical data is pulled into DataFrames. The data is then prepped for analysis, split into training and testing variables, and applied to an SVM regression model. Classification reports are given and visuals are provided to assess the algorithm's performance. Although further fine-tuning is required, the overall algorithm (applied consistently to all 5 collections) yielded positive ETH returns! 
 
-As an interface for the Happy Monkey user, a chatbot has been created using AWS's AmazonLex. The "lambda_for_NFT.txt" file is an exemplification of the bot's communication logic. The "price5nft.txt" file houses the data for the Top 5 Collections (identified on Dec. 15th, 2022) for use in the chatbot. Here is an example fo the chatbot aiding a user in selecting one of the five NFT collections:   
+As an interface for the Happy Monkey user, a chatbot has been created using AWS's AmazonLex. Please view the "Amazon_Lex_Chatbot.txt" file for the link to the chatbot in AWS, as well as the raw code. The "lambda_for_NFT.txt" file is an exemplification of the bot's communication logic. The "price5nft.txt" file houses the data for the Top 5 Collections (identified on Dec. 15th, 2022) for use in the chatbot. Here is an example fo the chatbot aiding a user in selecting one of the five NFT collections:   
 
 Investor: I want to invest  
 Bot: Are you interested in an NFT (Non-Fungible Token)?  

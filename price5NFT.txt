@@ -1,0 +1,6 @@
+Rank	Name			floorPriceETH	price_USD	MktCap_USD	Volume_USD
+1	Cryptopunks		63.69		$81,014.85	$833,186,240	136.9ETH
+2	Azuki			4.65156e-06	$0.00591687	$150,685	$1,595
+3	Bored_Ape_Yacht_Club	62.62		$81,918.86	$819,188,600	$5,621,359
+4	CloneX			6.4071		$8,140.68 	$158,271,066.69	$127,544.4
+5	Pudgy Penguins		4.57		$5813.124	$51,020,120	$83,906,148

@@ -21,7 +21,8 @@ scikit-learn version 1.1.3
 matplotpib version 3.5.3  
 hvplot version 0.8.2  
 
-Note: you will need access to Blockspan's API in order to execute the API call. This platform can be found at https://blockspan.com/
+Note: you will need access to Blockspan's API in order to execute the API call. This platform can be found at https://blockspan.com/  
+Note: Please ensure you have the appropriate .env file on your local machine, with your Blockspan API credentials, in order to perform a fresh data import. 
 
 ---
 
